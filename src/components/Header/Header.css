@@ -1,0 +1,33 @@
+  
+.header-content {
+    margin: 5px 15px;
+    width:45%;
+}
+
+.link {
+    text-align: center;
+    background-color:blueviolet;
+    color: white !important;
+    
+    width: 100px;
+    height: 30px;
+    border-radius: 3px;
+    margin: 5px 14px;
+    text-align: center;
+    text-decoration: none;
+}
+
+.login,
+.login:hover {
+    background-color: #FF6E40;
+    width: 100px !important;
+    border-radius: 5px;
+    width: 25%;
+    color: white !important;
+}
+
+button {
+    border-radius: 20px !important;
+    font-weight: 700 !important;
+    width: 75% !important;
+}

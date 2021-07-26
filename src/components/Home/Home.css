@@ -1,0 +1,50 @@
+.main-container {
+    background-image: url(../../images/train.jpg);
+}
+.sub-container {
+    background-size: 100%;
+    background-repeat: no-repeat;
+    height: 30vh;
+}
+
+.title {
+    text-align: center;
+    color: orangered;
+    
+    padding: 20px;
+    font-weight: 700;
+}
+h2 span
+{
+    background-color:yellow;
+}
+.card {
+    width: 100%;
+    margin: 2%;
+}
+
+.card-container {
+    position: relative;
+    text-align: center;
+    color: white;
+}
+
+.heading,
+.price,
+.btn {
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 70%;
+    margin-left: 0;
+}
+
+.price {
+    top: 90%;
+}
+
+.btn {
+    top: 60%;
+    width: 60%;
+}
